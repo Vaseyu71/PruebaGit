@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "my_virtual_env\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true
+}
